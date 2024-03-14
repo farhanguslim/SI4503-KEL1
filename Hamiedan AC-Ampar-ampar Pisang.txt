@@ -14,4 +14,8 @@ Masak sabigi dihurung bari-bari
 Mangga lepak Mangga lepok
 >>>>>>> 77448e3950b12ee8c83a54893da5b57ea762ccdb
 
+<<<<<<< HEAD
 Muhamad Farhan Guslim
+=======
+Aufar Nugratama Putra Subrata
+>>>>>>> 6a7a7cf6100fbc08dad83bae931baa759cbbb0a8
