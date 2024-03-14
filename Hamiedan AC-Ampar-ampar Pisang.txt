@@ -14,4 +14,18 @@ Masak sabigi dihurung bari-bari
 Mangga lepak Mangga lepok
 >>>>>>> 77448e3950b12ee8c83a54893da5b57ea762ccdb
 
+<<<<<<< HEAD
 Fathi Nuriazhar Riantio
+=======
+<<<<<<< HEAD
+Eunike Odelyn Graciella Gultom
+
+
+=======
+<<<<<<< HEAD
+Muhamad Farhan Guslim
+=======
+Aufar Nugratama Putra Subrata
+>>>>>>> 6a7a7cf6100fbc08dad83bae931baa759cbbb0a8
+>>>>>>> 2e353392151466283e5c53f3c816a7bcb59d7499
+>>>>>>> e9d91211146d7b01ca35896cda11b37e8561a5c2
